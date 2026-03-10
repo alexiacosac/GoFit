@@ -146,6 +146,6 @@ Admins can:
 
 - upload workout videos
 
-create nutrition plans
+- create nutrition plans
 
-manage subscriptions
+- manage subscriptions
