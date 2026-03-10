@@ -1,4 +1,5 @@
 **GoFit – Fitness & Nutrition Web Application**
+
 Project Description
 
 GoFit is a web application designed to help users improve their health and fitness through personalized workout and nutrition plans.
@@ -10,6 +11,7 @@ Users can track their progress, follow structured workout programs, and access v
 Administrators will be able to manage users, workout programs, nutrition plans, and uploaded training resources.
 
 **Main Features**
+
 **1. User Authentication**
 
 Users can create accounts and log in securely.
